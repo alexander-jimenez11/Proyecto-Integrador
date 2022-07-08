@@ -1,1 +1,6 @@
-# Proyecto-Integrador
+# Proyecto Integrador
+
+## Integrantes:
+- Renny Poma
+- Kevin Cabrera
+- Gilmar Jiménez
